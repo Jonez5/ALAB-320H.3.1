@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .learner {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .learner h2 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .learner p {
+    color: #666;
+  }
+  
+  .scores {
+    margin-top: 16px;
+  }
+  
+  .score {
+    margin-bottom: 8px;
+    border-top: 1px solid #eee;
+    padding-top: 8px;
+  }
+  
